@@ -1,0 +1,12 @@
+{
+  "name": "@yuehaiteam/amos-data",
+  "version": "1.0.0-CNREL4.4.0_R20559831_S20338540_D20555221",
+  "description": "Generated data for amos, a certain anime game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause"
+}
