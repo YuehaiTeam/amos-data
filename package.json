@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "type": "module"
 }
