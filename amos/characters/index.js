@@ -84,4 +84,5 @@ export default [
     { id: 10000096, key: 'Arlecchino', name: 3213, weapon: 'Pole', quailty: 'Orange' },
     { id: 10000097, key: 'Sethos', name: 3214, weapon: 'Bow', quailty: 'Purple' },
     { id: 10000098, key: 'Clorinde', name: 3215, weapon: 'SwordOneHand', quailty: 'Orange' },
+    { id: 10000099, key: 'Emilie', name: 3216, weapon: 'Pole', quailty: 'Orange' },
 ]
