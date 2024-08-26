@@ -84,5 +84,8 @@
     { "id": 10000096, "key": "Arlecchino", "name": 167199474, "weapon": "Pole", "quailty": "Orange" },
     { "id": 10000097, "key": "Sethos", "name": 1431322346, "weapon": "Bow", "quailty": "Purple" },
     { "id": 10000098, "key": "Clorinde", "name": 2745369298, "weapon": "SwordOneHand", "quailty": "Orange" },
-    { "id": 10000099, "key": "Emilie", "name": 1705786122, "weapon": "Pole", "quailty": "Orange" }
+    { "id": 10000099, "key": "Emilie", "name": 1705786122, "weapon": "Pole", "quailty": "Orange" },
+    { "id": 10000100, "key": "Kachina", "name": 2531816890, "weapon": "Pole", "quailty": "Purple" },
+    { "id": 10000101, "key": "Kinich", "name": 4172712634, "weapon": "Claymore", "quailty": "Orange" },
+    { "id": 10000102, "key": "Mualani", "name": 3949670506, "weapon": "Catalyst", "quailty": "Orange" }
 ]
