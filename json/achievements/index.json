@@ -6091,6 +6091,17 @@
                 "trigger": { "type": "COMBAT_CONFIG_COMMON" }
             },
             {
+                "id": 82252,
+                "name": 4137175140,
+                "desc": 2621293717,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": false,
+                "order": 2252,
+                "total": 1,
+                "trigger": { "type": "COMBAT_CONFIG_COMMON" }
+            },
+            {
                 "id": 84000,
                 "name": 3552480844,
                 "desc": 3065216325,
@@ -8943,9 +8954,93 @@
                     "type": "FINISH_PARENT_QUEST_AND",
                     "task": [{ "taskId": 0, "questId": 5002, "type": "AQ", "name": 4041818335 }]
                 }
+            },
+            {
+                "id": 84329,
+                "name": 3250115028,
+                "desc": 1401743237,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": false,
+                "order": 5108,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 5016, "type": "AQ", "name": 2893240079 }]
+                }
+            },
+            {
+                "id": 84330,
+                "name": 25800380,
+                "desc": 1758369293,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": false,
+                "order": 5109,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 5016, "type": "AQ", "name": 2893240079 }]
+                }
+            },
+            {
+                "id": 84331,
+                "name": 1165794260,
+                "desc": 2079250749,
+                "categoryId": 0,
+                "reward": 10,
+                "hidden": false,
+                "order": 5110,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_PARENT_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 5017, "type": "AQ", "name": 2412842671 }]
+                }
+            },
+            {
+                "id": 84332,
+                "name": 4273629908,
+                "desc": 555546421,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": false,
+                "order": 5111,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_PARENT_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 5009, "type": "AQ", "name": 3920224127 }]
+                }
+            },
+            {
+                "id": 84333,
+                "name": 1397226652,
+                "desc": 4273627029,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": false,
+                "order": 5112,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 5014, "type": "AQ", "name": 2338617343 }]
+                }
+            },
+            {
+                "id": 84334,
+                "name": 1499763388,
+                "desc": 2421799437,
+                "categoryId": 0,
+                "reward": 10,
+                "hidden": false,
+                "order": 5113,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_PARENT_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 5014, "type": "AQ", "name": 2338617343 }]
+                }
             }
         ],
-        "totalReward": 4080
+        "totalReward": 4125
     },
     {
         "id": 17,
@@ -16513,7 +16608,7 @@
                 "reward": 5,
                 "hidden": false,
                 "order": 305,
-                "total": 45,
+                "total": 46,
                 "trigger": { "type": "UNLOCK_TRANS_POINT" }
             },
             {
