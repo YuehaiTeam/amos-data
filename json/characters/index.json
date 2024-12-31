@@ -90,5 +90,8 @@
     { "id": 10000102, "key": "Mualani", "name": 3949670506, "weapon": "Catalyst", "quailty": "Orange" },
     { "id": 10000103, "key": "Xilonen", "name": 2515292882, "weapon": "SwordOneHand", "quailty": "Orange" },
     { "id": 10000104, "key": "Chasca", "name": 3746229466, "weapon": "Bow", "quailty": "Orange" },
-    { "id": 10000105, "key": "Olorun", "name": 1198350762, "weapon": "Bow", "quailty": "Purple" }
+    { "id": 10000105, "key": "Olorun", "name": 1198350762, "weapon": "Bow", "quailty": "Purple" },
+    { "id": 10000106, "key": "Mavuika", "name": 113398050, "weapon": "Claymore", "quailty": "Orange" },
+    { "id": 10000107, "key": "Citlali", "name": 1197975042, "weapon": "Catalyst", "quailty": "Orange" },
+    { "id": 10000108, "key": "Lanyan", "name": 1888132250, "weapon": "Catalyst", "quailty": "Purple" }
 ]
