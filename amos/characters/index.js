@@ -94,4 +94,5 @@ export default [
     { id: 10000106, key: 'Mavuika', name: 3720, weapon: 'Claymore', quailty: 'Orange' },
     { id: 10000107, key: 'Citlali', name: 3721, weapon: 'Catalyst', quailty: 'Orange' },
     { id: 10000108, key: 'Lanyan', name: 3722, weapon: 'Catalyst', quailty: 'Purple' },
+    { id: 10000109, key: 'Mizuki', name: 3723, weapon: 'Catalyst', quailty: 'Orange' },
 ]

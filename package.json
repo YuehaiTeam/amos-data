@@ -1,6 +1,6 @@
 {
   "name": "@yuehaiteam/amos-data",
-  "version": "1.0.0-CNRELWin5.3.0-R29332470-S29137934-D29332088",
+  "version": "1.0.0-CNRELWin5.4.0-R30231699-S29945518-D30227606",
   "description": "Generated data for amos, a certain anime game",
   "main": "index.js",
   "scripts": {

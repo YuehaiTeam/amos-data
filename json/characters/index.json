@@ -93,5 +93,6 @@
     { "id": 10000105, "key": "Olorun", "name": 1198350762, "weapon": "Bow", "quailty": "Purple" },
     { "id": 10000106, "key": "Mavuika", "name": 113398050, "weapon": "Claymore", "quailty": "Orange" },
     { "id": 10000107, "key": "Citlali", "name": 1197975042, "weapon": "Catalyst", "quailty": "Orange" },
-    { "id": 10000108, "key": "Lanyan", "name": 1888132250, "weapon": "Catalyst", "quailty": "Purple" }
+    { "id": 10000108, "key": "Lanyan", "name": 1888132250, "weapon": "Catalyst", "quailty": "Purple" },
+    { "id": 10000109, "key": "Mizuki", "name": 3784387538, "weapon": "Catalyst", "quailty": "Orange" }
 ]
