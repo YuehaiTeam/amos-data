@@ -96,5 +96,7 @@
     { "id": 10000108, "key": "Lanyan", "name": 1888132250, "weapon": "CATALYST", "quailty": "PURPLE" },
     { "id": 10000109, "key": "Mizuki", "name": 3784387538, "weapon": "CATALYST", "quailty": "ORANGE" },
     { "id": 10000110, "key": "Iansan", "name": 3120492514, "weapon": "POLE", "quailty": "PURPLE" },
-    { "id": 10000111, "key": "Varesa", "name": 283438874, "weapon": "CATALYST", "quailty": "ORANGE" }
+    { "id": 10000111, "key": "Varesa", "name": 283438874, "weapon": "CATALYST", "quailty": "ORANGE" },
+    { "id": 10000112, "key": "Escoffier", "name": 4035850498, "weapon": "POLE", "quailty": "ORANGE" },
+    { "id": 10000113, "key": "Ifa", "name": 3398665018, "weapon": "CATALYST", "quailty": "PURPLE" }
 ]

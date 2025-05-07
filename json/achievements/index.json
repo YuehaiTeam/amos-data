@@ -6697,6 +6697,28 @@
                 "trigger": { "type": "COMBAT_CONFIG_COMMON" }
             },
             {
+                "id": 82296,
+                "name": 1901267692,
+                "desc": 374521285,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 2296,
+                "total": 1,
+                "trigger": { "type": "COMBAT_CONFIG_COMMON" }
+            },
+            {
+                "id": 82297,
+                "name": 583228924,
+                "desc": 1944588349,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 2297,
+                "total": 1,
+                "trigger": { "type": "COMBAT_CONFIG_COMMON" }
+            },
+            {
                 "id": 84000,
                 "name": 3552480844,
                 "desc": 3065216325,
@@ -9742,9 +9764,42 @@
                     "type": "FINISH_QUEST_AND",
                     "task": [{ "taskId": 0, "questId": 5029, "type": "AQ", "name": 1475094735 }]
                 }
+            },
+            {
+                "id": 84342,
+                "name": 3405862068,
+                "desc": 1001651077,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5121,
+                "total": 1,
+                "trigger": { "type": "FINISH_QUEST_AND" }
+            },
+            {
+                "id": 84343,
+                "name": 3480150892,
+                "desc": 3787259869,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5122,
+                "total": 1,
+                "trigger": { "type": "FINISH_QUEST_AND" }
+            },
+            {
+                "id": 84344,
+                "name": 2924437484,
+                "desc": 258286493,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5123,
+                "total": 1,
+                "trigger": { "type": "FINISH_QUEST_AND" }
             }
         ],
-        "totalReward": 4455
+        "totalReward": 4480
     },
     {
         "id": 17,
@@ -13667,8 +13722,11 @@
                 "order": 68,
                 "total": 1,
                 "trigger": {
-                    "type": "FINISH_QUEST_AND",
-                    "task": [{ "taskId": 0, "questId": 70102, "type": "WQ", "name": 24163655 }]
+                    "type": "FINISH_QUEST_OR",
+                    "task": [
+                        { "taskId": 0, "questId": 70102, "type": "WQ", "name": 24163655 },
+                        { "taskId": 0, "questId": 75197, "type": "WQ", "name": 3448006743 }
+                    ]
                 }
             }
         ],
@@ -18861,7 +18919,7 @@
                 "reward": 5,
                 "hidden": false,
                 "order": 347,
-                "total": 38,
+                "total": 39,
                 "trigger": { "type": "UNLOCK_TRANS_POINT" }
             },
             {
