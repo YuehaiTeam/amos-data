@@ -1131,5 +1131,29 @@
             { "id": 40412, "name": 88946220, "type": "RING", "setId": 15040, "setIdx": 1, "qualities": [4, 5] },
             { "id": 40432, "name": 138832156, "type": "DRESS", "setId": 15040, "setIdx": 3, "qualities": [4, 5] }
         ]
+    },
+    {
+        "id": 15041,
+        "name": 1605751859,
+        "iconIndex": 4,
+        "contains": [
+            { "id": 41442, "name": 3433558164, "type": "BRACER", "setId": 15041, "setIdx": 4, "qualities": [4, 5] },
+            { "id": 41422, "name": 604015684, "type": "NECKLACE", "setId": 15041, "setIdx": 2, "qualities": [4, 5] },
+            { "id": 41452, "name": 783767892, "type": "SHOES", "setId": 15041, "setIdx": 5, "qualities": [4, 5] },
+            { "id": 41412, "name": 1669766348, "type": "RING", "setId": 15041, "setIdx": 1, "qualities": [4, 5] },
+            { "id": 41432, "name": 1044660716, "type": "DRESS", "setId": 15041, "setIdx": 3, "qualities": [4, 5] }
+        ]
+    },
+    {
+        "id": 15042,
+        "name": 3724297467,
+        "iconIndex": 4,
+        "contains": [
+            { "id": 42442, "name": 2921046660, "type": "BRACER", "setId": 15042, "setIdx": 4, "qualities": [4, 5] },
+            { "id": 42422, "name": 1203260716, "type": "NECKLACE", "setId": 15042, "setIdx": 2, "qualities": [4, 5] },
+            { "id": 42452, "name": 860876444, "type": "SHOES", "setId": 15042, "setIdx": 5, "qualities": [4, 5] },
+            { "id": 42412, "name": 2138264916, "type": "RING", "setId": 15042, "setIdx": 1, "qualities": [4, 5] },
+            { "id": 42432, "name": 3122710052, "type": "DRESS", "setId": 15042, "setIdx": 3, "qualities": [4, 5] }
+        ]
     }
 ]

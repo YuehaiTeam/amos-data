@@ -101,5 +101,8 @@
     { "id": 10000113, "key": "Ifa", "name": 3398665018, "weapon": "CATALYST", "quailty": "PURPLE" },
     { "id": 10000114, "key": "SkirkNew", "name": 123650890, "weapon": "SWORD_ONE_HAND", "quailty": "ORANGE" },
     { "id": 10000115, "key": "Dahlia", "name": 2332664426, "weapon": "SWORD_ONE_HAND", "quailty": "PURPLE" },
-    { "id": 10000116, "key": "Ineffa", "name": 2759230658, "weapon": "POLE", "quailty": "ORANGE" }
+    { "id": 10000116, "key": "Ineffa", "name": 2759230658, "weapon": "POLE", "quailty": "ORANGE" },
+    { "id": 10000119, "key": "Lauma", "name": 1776874018, "weapon": "CATALYST", "quailty": "ORANGE" },
+    { "id": 10000120, "key": "Flins", "name": 1804674810, "weapon": "POLE", "quailty": "ORANGE" },
+    { "id": 10000121, "key": "Aino", "name": 3887688410, "weapon": "CLAYMORE", "quailty": "PURPLE" }
 ]
