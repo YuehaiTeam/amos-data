@@ -107,5 +107,7 @@
     { "id": 10000119, "key": "Lauma", "name": 1776874018, "weapon": "CATALYST", "quailty": "ORANGE" },
     { "id": 10000120, "key": "Flins", "name": 1804674810, "weapon": "POLE", "quailty": "ORANGE" },
     { "id": 10000121, "key": "Aino", "name": 3887688410, "weapon": "CLAYMORE", "quailty": "PURPLE" },
-    { "id": 10000122, "key": "Nefer", "name": 2745786202, "weapon": "CATALYST", "quailty": "ORANGE" }
+    { "id": 10000122, "key": "Nefer", "name": 2745786202, "weapon": "CATALYST", "quailty": "ORANGE" },
+    { "id": 10000123, "key": "Durin", "name": 2801077538, "weapon": "SWORD_ONE_HAND", "quailty": "ORANGE" },
+    { "id": 10000124, "key": "Jahoda", "name": 1438964522, "weapon": "BOW", "quailty": "PURPLE" }
 ]

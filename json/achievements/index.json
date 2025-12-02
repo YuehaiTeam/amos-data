@@ -319,7 +319,7 @@
                 "hidden": false,
                 "order": 1027,
                 "postStage": 81027,
-                "total": 10,
+                "total": 3,
                 "trigger": { "type": "HUNTING_FINISH_NUM" }
             },
             {
@@ -332,7 +332,7 @@
                 "order": 1028,
                 "preStage": 81026,
                 "postStage": 81028,
-                "total": 20,
+                "total": 6,
                 "trigger": { "type": "HUNTING_FINISH_NUM" }
             },
             {
@@ -344,7 +344,7 @@
                 "hidden": false,
                 "order": 1029,
                 "preStage": 81027,
-                "total": 30,
+                "total": 9,
                 "trigger": { "type": "HUNTING_FINISH_NUM" }
             },
             {
@@ -356,7 +356,7 @@
                 "hidden": false,
                 "order": 1030,
                 "postStage": 81030,
-                "total": 10,
+                "total": 3,
                 "trigger": { "type": "CITY_REPUTATION_FINISH_REQUEST" }
             },
             {
@@ -369,7 +369,7 @@
                 "order": 1031,
                 "preStage": 81029,
                 "postStage": 81031,
-                "total": 20,
+                "total": 6,
                 "trigger": { "type": "CITY_REPUTATION_FINISH_REQUEST" }
             },
             {
@@ -381,7 +381,7 @@
                 "hidden": false,
                 "order": 1032,
                 "preStage": 81030,
-                "total": 30,
+                "total": 9,
                 "trigger": { "type": "CITY_REPUTATION_FINISH_REQUEST" }
             },
             {
@@ -7258,6 +7258,17 @@
                 "trigger": { "type": "COMBAT_CONFIG_COMMON" }
             },
             {
+                "id": 82303,
+                "name": 2734538812,
+                "desc": 633795621,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 2303,
+                "total": 1,
+                "trigger": { "type": "COMBAT_CONFIG_COMMON" }
+            },
+            {
                 "id": 84000,
                 "name": 3552480844,
                 "desc": 3065216325,
@@ -10632,6 +10643,118 @@
                 }
             },
             {
+                "id": 84370,
+                "name": 1277783532,
+                "desc": 1228934821,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5145,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 6025, "type": "AQ", "name": 3856609815 }]
+                }
+            },
+            {
+                "id": 84371,
+                "name": 2423608644,
+                "desc": 263238933,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5146,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 6025, "type": "AQ", "name": 3856609815 }]
+                }
+            },
+            {
+                "id": 84372,
+                "name": 589699140,
+                "desc": 3241966005,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5147,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 6026, "type": "AQ", "name": 3382934695 }]
+                }
+            },
+            {
+                "id": 84373,
+                "name": 3785590516,
+                "desc": 3379883741,
+                "categoryId": 0,
+                "reward": 10,
+                "hidden": true,
+                "order": 5148,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 6026, "type": "AQ", "name": 3382934695 }]
+                }
+            },
+            {
+                "id": 84366,
+                "name": 1598973076,
+                "desc": 467171045,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5149,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 6027, "type": "AQ", "name": 4146842143 }]
+                }
+            },
+            {
+                "id": 84367,
+                "name": 4285459892,
+                "desc": 2080972349,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5150,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 6027, "type": "AQ", "name": 4146842143 }]
+                }
+            },
+            {
+                "id": 84368,
+                "name": 2081814996,
+                "desc": 3503377789,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 5151,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 6028, "type": "AQ", "name": 3286082479 }]
+                }
+            },
+            {
+                "id": 84369,
+                "name": 1425492804,
+                "desc": 711522597,
+                "categoryId": 0,
+                "reward": 10,
+                "hidden": true,
+                "order": 5152,
+                "total": 1,
+                "trigger": {
+                    "type": "FINISH_QUEST_AND",
+                    "task": [{ "taskId": 0, "questId": 6028, "type": "AQ", "name": 3286082479 }]
+                }
+            },
+            {
                 "id": 84155,
                 "name": 2797322604,
                 "desc": 1983784317,
@@ -10643,7 +10766,7 @@
                 "trigger": { "type": "ANECDOTE_FINISH_COUNT" }
             }
         ],
-        "totalReward": 4860
+        "totalReward": 4915
     },
     {
         "id": 17,
@@ -20336,7 +20459,7 @@
                 "reward": 5,
                 "hidden": false,
                 "order": 416,
-                "total": 48,
+                "total": 49,
                 "trigger": { "type": "UNLOCK_TRANS_POINT" }
             },
             {
