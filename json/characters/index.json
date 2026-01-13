@@ -109,5 +109,8 @@
     { "id": 10000121, "key": "Aino", "name": 3887688410, "weapon": "CLAYMORE", "quailty": "PURPLE" },
     { "id": 10000122, "key": "Nefer", "name": 2745786202, "weapon": "CATALYST", "quailty": "ORANGE" },
     { "id": 10000123, "key": "Durin", "name": 2801077538, "weapon": "SWORD_ONE_HAND", "quailty": "ORANGE" },
-    { "id": 10000124, "key": "Jahoda", "name": 1438964522, "weapon": "BOW", "quailty": "PURPLE" }
+    { "id": 10000124, "key": "Jahoda", "name": 1438964522, "weapon": "BOW", "quailty": "PURPLE" },
+    { "id": 10000125, "key": "Columbina", "name": 1888371618, "weapon": "CATALYST", "quailty": "ORANGE" },
+    { "id": 10000126, "key": "Zibai", "name": 937533090, "weapon": "SWORD_ONE_HAND", "quailty": "ORANGE" },
+    { "id": 10000127, "key": "Illuga", "name": 102656986, "weapon": "POLE", "quailty": "PURPLE" }
 ]
