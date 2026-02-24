@@ -112,5 +112,6 @@
     { "id": 10000124, "key": "Jahoda", "name": 1438964522, "weapon": "BOW", "quailty": "PURPLE" },
     { "id": 10000125, "key": "Columbina", "name": 1888371618, "weapon": "CATALYST", "quailty": "ORANGE" },
     { "id": 10000126, "key": "Zibai", "name": 937533090, "weapon": "SWORD_ONE_HAND", "quailty": "ORANGE" },
-    { "id": 10000127, "key": "Illuga", "name": 102656986, "weapon": "POLE", "quailty": "PURPLE" }
+    { "id": 10000127, "key": "Illuga", "name": 102656986, "weapon": "POLE", "quailty": "PURPLE" },
+    { "id": 10000128, "key": "Varka", "name": 963351866, "weapon": "CLAYMORE", "quailty": "ORANGE" }
 ]

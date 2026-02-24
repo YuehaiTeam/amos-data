@@ -4277,6 +4277,7 @@ export default [
     'Columbina',
     'Zibai',
     'Illuga',
+    null,
     'Adventurer Exam: Battle Tactics',
     'Adventurer Exam: The Art of Adventure',
     'Adventurer Exam: Taking Flight',

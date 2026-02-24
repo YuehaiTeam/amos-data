@@ -113,4 +113,5 @@ export default [
     { id: 10000125, key: 'Columbina', name: 4275, weapon: 'CATALYST', quailty: 'ORANGE' },
     { id: 10000126, key: 'Zibai', name: 4276, weapon: 'SWORD_ONE_HAND', quailty: 'ORANGE' },
     { id: 10000127, key: 'Illuga', name: 4277, weapon: 'POLE', quailty: 'PURPLE' },
+    { id: 10000128, key: 'Varka', name: 4278, weapon: 'CLAYMORE', quailty: 'ORANGE' },
 ]
