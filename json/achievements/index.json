@@ -7525,6 +7525,17 @@
                 "trigger": { "type": "COMBAT_CONFIG_COMMON" }
             },
             {
+                "id": 82307,
+                "name": 2113200652,
+                "desc": 1875765533,
+                "categoryId": 0,
+                "reward": 5,
+                "hidden": true,
+                "order": 2307,
+                "total": 1,
+                "trigger": { "type": "COMBAT_CONFIG_COMMON" }
+            },
+            {
                 "id": 84000,
                 "name": 3552480844,
                 "desc": 3065216325,
@@ -11134,7 +11145,7 @@
                 "trigger": { "type": "ANECDOTE_FINISH_COUNT" }
             }
         ],
-        "totalReward": 5070
+        "totalReward": 5075
     },
     {
         "id": 17,
