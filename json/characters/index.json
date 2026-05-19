@@ -114,5 +114,8 @@
     { "id": 10000126, "key": "Zibai", "name": 937532578, "weapon": "SWORD_ONE_HAND", "quailty": "ORANGE" },
     { "id": 10000127, "key": "Illuga", "name": 102656474, "weapon": "POLE", "quailty": "PURPLE" },
     { "id": 10000128, "key": "Varka", "name": 963351866, "weapon": "CLAYMORE", "quailty": "ORANGE" },
-    { "id": 10000130, "key": "Linnea", "name": 1961019898, "weapon": "BOW", "quailty": "ORANGE" }
+    { "id": 10000129, "key": "Lohen", "name": 2872823194, "weapon": "POLE", "quailty": "ORANGE" },
+    { "id": 10000130, "key": "Linnea", "name": 1961019898, "weapon": "BOW", "quailty": "ORANGE" },
+    { "id": 10000131, "key": "Nicole", "name": 1711582634, "weapon": "CATALYST", "quailty": "ORANGE" },
+    { "id": 10000132, "key": "Prune", "name": 2787504450, "weapon": "CATALYST", "quailty": "PURPLE" }
 ]
