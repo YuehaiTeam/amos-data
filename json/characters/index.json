@@ -117,5 +117,6 @@
     { "id": 10000129, "key": "Lohen", "name": 2872823194, "weapon": "POLE", "quailty": "ORANGE" },
     { "id": 10000130, "key": "Linnea", "name": 1961019898, "weapon": "BOW", "quailty": "ORANGE" },
     { "id": 10000131, "key": "Nicole", "name": 1711582634, "weapon": "CATALYST", "quailty": "ORANGE" },
-    { "id": 10000132, "key": "Prune", "name": 2787504450, "weapon": "CATALYST", "quailty": "PURPLE" }
+    { "id": 10000132, "key": "Prune", "name": 2787504450, "weapon": "CATALYST", "quailty": "PURPLE" },
+    { "id": 10000133, "key": "MarionetteNew", "name": 108893506, "weapon": "CLAYMORE", "quailty": "ORANGE" }
 ]
