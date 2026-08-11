@@ -725,4 +725,28 @@ export default [
             { id: 46432, name: 356, type: 'DRESS', setId: 15046, setIdx: 3, qualities: [4, 5] },
         ],
     },
+    {
+        id: 15047,
+        name: 363,
+        iconIndex: 4,
+        contains: [
+            { id: 47442, name: 358, type: 'BRACER', setId: 15047, setIdx: 4, qualities: [4, 5] },
+            { id: 47422, name: 359, type: 'NECKLACE', setId: 15047, setIdx: 2, qualities: [4, 5] },
+            { id: 47452, name: 360, type: 'SHOES', setId: 15047, setIdx: 5, qualities: [4, 5] },
+            { id: 47412, name: 361, type: 'RING', setId: 15047, setIdx: 1, qualities: [4, 5] },
+            { id: 47432, name: 362, type: 'DRESS', setId: 15047, setIdx: 3, qualities: [4, 5] },
+        ],
+    },
+    {
+        id: 15048,
+        name: 369,
+        iconIndex: 4,
+        contains: [
+            { id: 48442, name: 364, type: 'BRACER', setId: 15048, setIdx: 4, qualities: [4, 5] },
+            { id: 48422, name: 365, type: 'NECKLACE', setId: 15048, setIdx: 2, qualities: [4, 5] },
+            { id: 48452, name: 366, type: 'SHOES', setId: 15048, setIdx: 5, qualities: [4, 5] },
+            { id: 48412, name: 367, type: 'RING', setId: 15048, setIdx: 1, qualities: [4, 5] },
+            { id: 48432, name: 368, type: 'DRESS', setId: 15048, setIdx: 3, qualities: [4, 5] },
+        ],
+    },
 ]
