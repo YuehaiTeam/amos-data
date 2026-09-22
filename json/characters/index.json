@@ -119,6 +119,8 @@
     { "id": 10000131, "key": "Nicole", "name": 1711582634, "weapon": "CATALYST", "quailty": "ORANGE" },
     { "id": 10000132, "key": "Prune", "name": 2787504450, "weapon": "CATALYST", "quailty": "PURPLE" },
     { "id": 10000133, "key": "MarionetteNew", "name": 108893506, "weapon": "CLAYMORE", "quailty": "ORANGE" },
+    { "id": 10000140, "key": "Vodyanitsa", "name": 1692132714, "weapon": "CATALYST", "quailty": "ORANGE" },
+    { "id": 10000143, "key": "Vesna", "name": 3992521194, "weapon": "SWORD_ONE_HAND", "quailty": "ORANGE" },
     { "id": 10000148, "key": "Alyosha", "name": 2727450010, "weapon": "POLE", "quailty": "PURPLE" },
     { "id": 10000150, "key": "Odette", "name": 2417850, "weapon": "SWORD_ONE_HAND", "quailty": "ORANGE" }
 ]
